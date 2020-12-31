@@ -1,0 +1,131 @@
+# depslib dependency file v1.0
+1608828107 source:e:\24_hotel_program\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"user_interface.h"
+	"handle_data.h"
+
+1608910512 e:\24_hotel_program\front_office.h
+
+1608910958 source:e:\24_hotel_program\fornt_office.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	"front_office.h"
+
+1608904739 source:e:\24_hotel_program\user_interface.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+	"user_interface.h"
+	"handle_data.h"
+	"account_setting.h"
+	"front_office.h"
+
+1608904046 e:\24_hotel_program\user_interface.h
+	"front_office.h"
+
+1608606059 e:\24_hotel_program\handle_data.h
+	<iostream>
+
+1608712199 source:e:\24_hotel_program\handle_data.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	"handle_data.h"
+	"cr_account.h"
+
+1608827193 source:e:\24_hotel_program\account_setting.cpp
+	<conio.h>
+	<windows.h>
+	<fstream>
+	"handle_data.h"
+	"account_setting.h"
+
+1608628199 e:\24_hotel_program\account_setting.h
+
+1608651750 source:e:\24_hotel_program\cr_account.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<conio.h>
+
+1608651354 e:\24_hotel_program\cr_account.h
+
+1608909119 source:e:\24_hotel_program\customer.cpp
+	<iostream>
+	"customer.h"
+
+1608907834 e:\24_hotel_program\customer.h
+
+1608827194 source:d:\temp fold\compile\24_hotel_program - copy\account_setting.cpp
+	<conio.h>
+	<windows.h>
+	<fstream>
+	"handle_data.h"
+	"account_setting.h"
+
+1608606060 d:\temp fold\compile\24_hotel_program - copy\handle_data.h
+	<iostream>
+
+1608628200 d:\temp fold\compile\24_hotel_program - copy\account_setting.h
+
+1608651752 source:d:\temp fold\compile\24_hotel_program - copy\cr_account.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<conio.h>
+
+1608909120 source:d:\temp fold\compile\24_hotel_program - copy\customer.cpp
+	<iostream>
+	"customer.h"
+
+1609236920 d:\temp fold\compile\24_hotel_program - copy\customer.h
+
+1609427657 source:d:\temp fold\compile\24_hotel_program - copy\fornt_office.cpp
+	<iostream>
+	<conio.h>
+	<cstring>
+	<windows.h>
+	"front_office.h"
+
+1608910514 d:\temp fold\compile\24_hotel_program - copy\front_office.h
+
+1608712200 source:d:\temp fold\compile\24_hotel_program - copy\handle_data.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	"handle_data.h"
+	"cr_account.h"
+
+1608651356 d:\temp fold\compile\24_hotel_program - copy\cr_account.h
+
+1608828108 source:d:\temp fold\compile\24_hotel_program - copy\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	"user_interface.h"
+	"handle_data.h"
+
+1608904048 d:\temp fold\compile\24_hotel_program - copy\user_interface.h
+	"front_office.h"
+
+1608904740 source:d:\temp fold\compile\24_hotel_program - copy\user_interface.cpp
+	<iostream>
+	<cstring>
+	<conio.h>
+	<cstdlib>
+	"user_interface.h"
+	"handle_data.h"
+	"account_setting.h"
+	"front_office.h"
+
