@@ -1,0 +1,16 @@
+name        : dhyno cheros
+nationality : german
+id          : 12345678
+room type   : 1
+room no     : 1
+extra bed   : y
+night       : 2
+->
+name        : michael jackson
+nationality : us
+id          : 11111111
+room type   : 1
+room no     : 2
+extra bed   : y
+night       : 2
+->

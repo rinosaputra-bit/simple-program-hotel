@@ -3,23 +3,20 @@
 
 class guest{
 
-protected:
+public:
     char first_name[20];
     char last_name[20];
     char country[20];
-    int date;
-    int month;
-    int year;
+    unsigned long pas_id;
 
     int room_num;
     int room_type;
 
-    guest* next_guest;
+    int _stay;
+    char ext_bed;
 
-public:
-    void search_guest();
-    void add_guest();
-    void delete_guest();
+    guest();
+    guest* next_guest;
 
 };
 
